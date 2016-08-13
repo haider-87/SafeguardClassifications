@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Types of incidents";
+
+
+}
+
+
+
+@model SafeguardClassifications.ViewModels.IncidentTypes
+
+
+<h1 class="page-header">@ViewData["Title"]</h1>
+<div class="well">
+    <div class="list-group">
+        @{foreach (var x in @Model)
+
+            {
+                <button type="button"  class="list-group-item"  onclick="location.href='@Url.Action("CauseGroups", "Home",  new {  id  = x } )'"> @x</button>
+            }
+        }
+
+    </div>
+</div>

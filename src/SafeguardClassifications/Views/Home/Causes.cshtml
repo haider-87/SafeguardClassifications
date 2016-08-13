@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Types of incidents";
+
+
+}
+
+
+
+@model SafeguardClassifications.Models.MaintainanceTable
+
+
+<h1>@ViewData["Title"]</h1>
+
+
+@{foreach (var x in @Model)
+
+    {
+        <div>
+            <h2>@x.incidentType</h2>
+            <h3>@x.causeGroup</h3>
+            <ul>@x.cause1</ul>
+        </div>
+    }
+}

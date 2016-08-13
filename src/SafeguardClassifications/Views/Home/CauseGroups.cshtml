@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Cause Groups";
+
+
+}
+
+
+
+@model SafeguardClassifications.ViewModels.CauseGroups
+
+
+<h1 class="page-header">@ViewData["Title"]</h1>
+<div class="well">
+    <div class="list-group">
+        @{foreach (var x in @Model)
+
+            {
+                <button type="button" class="list-group-item">@x</button>
+            }
+        }
+
+    </div>
+</div>
