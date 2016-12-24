@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using SafeguardClassifications.Models;
 
 namespace SafeguardClassifications
 {
@@ -29,6 +30,8 @@ namespace SafeguardClassifications
         {
             // Add framework services.
             services.AddMvc();
+            
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,6 +51,7 @@ namespace SafeguardClassifications
             }
 
             app.UseStaticFiles();
+      
 
             app.UseMvc(routes =>
             {
@@ -56,5 +60,7 @@ namespace SafeguardClassifications
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+
+    
     }
 }

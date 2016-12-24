@@ -1,6 +1,6 @@
 ﻿
 @{
-    ViewData["Title"] = "Types of incidents";
+    ViewData["Title"] = "Incident Types";
 
 
 }
@@ -11,14 +11,36 @@
 
 
 <h1 class="page-header">@ViewData["Title"]</h1>
-<div class="well">
-    <div class="list-group">
-        @{foreach (var x in @Model)
+
+
+
+<div class="container-fluid">
+    <div class="col-md-8">
+        <div class=" alert alert-info"> <span class="glyphicon glyphicon-info-sign"></span> Select an incident type to view further breakdown</div>
+        <div class="well">
+            <div class="list-group">
+                @{foreach (var x in @Model)
 
             {
-                <button type="button"  class="list-group-item"  onclick="location.href='@Url.Action("CauseGroups", "Home",  new {  id  = x } )'"> @x</button>
-            }
-        }
+                        <button type="button" class="list-group-item" onclick="location.href='@Url.Action("CauseGroups", "Home",  new {  id  = x } )'"> @x</button>
+                    }
+                }
+
+            </div>
+        </div>
+    </div>
+
+    <div class="well col-md-4">
+        <strong>Instructions</strong> <br />
+        <p>Eclipse (Ulysses Safeguard Incident Management System) allows staff to classify incidents in the following hierarchical structure:</p>
+        <ol class="breadcrumb">
+            <li>Incident Type</li>
+            <li>Cause Group</li>
+            <li>Cause</li>
+        </ol>
+        <p>This microsite should help you easily navigate the draft dataset we are working on nationally.</p>
+        <p>We are currently consulting on this dataset and we welcome your input, contact details available on the <a asp-controller="Home" asp-action="Contact">Contact</a> page </p>
 
     </div>
+
 </div>

@@ -1,24 +1,60 @@
 ﻿
 @{
-    ViewData["Title"] = "Cause Groups";
+    ViewData["Title"] = this.ViewContext.RouteData.Values["id"];
+
+    if(Model.Comments.Count == 0)
+                                { ViewData["ShowComment"] = "hidden"; }
+                                else { ViewData["ShowComment"] = "well show "; }
+
 
 
 }
 
-
-
-@model SafeguardClassifications.ViewModels.CauseGroups
+@model SafeguardClassifications.ViewModels.CauseGroupsVM
 
 
 <h1 class="page-header">@ViewData["Title"]</h1>
-<div class="well">
-    <div class="list-group">
-        @{foreach (var x in @Model)
 
-            {
-                <button type="button" class="list-group-item">@x</button>
+
+<div class="container-fluid">
+
+    <div class="col-md-8">
+        <div class=" alert alert-info"> <span class="glyphicon glyphicon-info-sign"></span> Below is a breakdown of @ViewData["Title"]. Select a cause group to view a further breakdown of causes. </div>
+
+
+        <div class="list-group well">
+            @{foreach (var x in @Model.Types)
+
+                {
+                    <button type="button" class="list-group-item" onclick="location.href='@Url.Action("Causes", "Home",  new {  id  = x } )'">@x</button>
+                }
             }
-        }
+
+        </div>
 
     </div>
+
+    <div class="col-md-4">
+        <div class=@ViewData["ShowComment"]>
+            <strong>Comments</strong> <br />
+
+            @{foreach (var x in @Model.Comments)
+
+            {
+                    @x.comment
+                    <br />
+                    <br />
+                }
+            }
+
+
+        </div>
+        <a class="btn btn-primary btn-block" href="javascript:history.back()">Click to go back to incident types</a>
+    </div>
+
+
+
+    
+
 </div>
+

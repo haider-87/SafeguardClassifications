@@ -1,357 +1,482 @@
 incidentType,causeGroup,cause1
-Security,Missing Patient (Sectioned),Absconsion From A&E Or Other
-Security,Missing Patient (Sectioned),Absconsion From Inpatient Unit
-Clinical Incident,Mental Health Act,Access To AMHP
-Fire (Including Smoking Issues),Fire,Accidental
-Fire (Including Smoking Issues),False Alarm,Accidental Activation Of Fire Alarm
-Clinical Incident,"Access, Admission, Xfer, Discharge",Admission Delay / No Bed Available
-Clinical Incident,Safeguarding/Privacy & Dignity,Admission Of A Female To A Male Bed
-Clinical Incident,Safeguarding/Privacy & Dignity,Admission Of A Male To A Female Bed
-Clinical Incident,Safeguarding/Privacy & Dignity,Admission Of Under 18 To Acute Adult Unit
-Clinical Incident,Pharmacy Interventions,Adverse Effects
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Alarm Issue
-Clinical Incident,Death,Alcohol / Substance Abuse Related
-Clinical Incident,Medication (Side Effect / Allergy),Allergy (Known)
-Clinical Incident,Medication (Side Effect / Allergy),Allergy (Unknown)
-Clinical Incident,Pharmacy Interventions,Allergy Status
-Clinical Incident,"Access, Admission, Xfer, Discharge",Assessment Delay
-Security,Security Equipment,Attack Alarm Failure
-Security,Attempted Absconsion Of Inpatient,Attempted Absconsion From Acute Unit
-Security,Attempted Absconsion Of Inpatient,Attempted Absconsion From Forensic Unit
-Security,Attempted Absconsion Of Inpatient,Attempted Absconsion From PICU
-Security,Attempted Absconsion Of Inpatient,Attempted Absconsion From Rehab Unit
-Security,Attempted Absconsion Of Inpatient,Attempted Absconsion Whilst On Leave
-"Violence, Abuse And Harrassment",Assault (Attempted),Attempted Assault - Other On Pt
-"Violence, Abuse And Harrassment",Assault (Attempted),Attempted Assault - Other On St
-"Violence, Abuse And Harrassment",Assault (Attempted),Attempted Assault - Pt On Other
-"Violence, Abuse And Harrassment",Assault (Attempted),Attempted Assault - Pt On Pt
-"Violence, Abuse And Harrassment",Assault (Attempted),Attempted Assault - Pt On St
-"Violence, Abuse And Harrassment",Assault (Attempted),Attempted Assault - St On Pt
-Clinical Incident,Management Of Infection Control,"Blood Stream Infection (E-Coli, MMSA, MRSA...)"
-Clinical Incident,Pharmacy Interventions,Blood Tests/TDM/Physical Monitoring
-Security,Information Governance,Breach Of Patient Confidentiality
-Security,Intrusion / Trespassing / Break In,Break In To Trust Premises
-Clinical Incident,Self Harm (Actual),Burning/Scalding
-Clinical Incident,Self Harm (Attempted),Burning/Scalding (Attempted)
-Clinical Incident,Care Record (Clinical Notes),Care Record Unavailable For Clinic
-Clinical Incident,Safeguarding/Privacy & Dignity,Child Protection
-Clinical Incident,Pharmacy Interventions,Choice Of Therapy
-Accident (Patient),Choking,Choking/Swallowing
-Clinical Incident,Management Of Infection Control,Clinical Waste Management
-Ill Health,Ill Health (Other),Collapse/Fainting (Other)
-Ill Health,Ill Health (Patient),Collapse/Fainting (Patient)
-Ill Health,Ill Health (Staff),Collapse/Fainting (Staff)
-Clinical Incident,Medication (Management),Communication (Medication Related)
-Clinical Incident,Communication / Handover,Communication With External Agency
-"Other (Estates, Facilities & Complaints)",Complaint / Potential Complaint,Complainant Referred To Complaints Dept
-"Other (Estates, Facilities & Complaints)",Complaint / Potential Complaint,Complainant Referred To PALS
-"Other (Estates, Facilities & Complaints)",Complaint / Potential Complaint,Complaintant Referred To Other
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Control Room/Alarms/Phone Lines Faulty/Broken
-Clinical Incident,Self Harm (Actual),Cutting/Scratching
-Clinical Incident,Self Harm (Attempted),Cutting/Scratching (Attempted)
-Ill Health,Ill Health (Patient),D&V (Patient)
-Ill Health,Ill Health (Staff),D&V (Staff)
-Security,Information Governance,Data Protection Issue
-Clinical Incident,Medication (Administration),Delay (Dose Given Late)
-Clinical Incident,Treatment Non-Compliance,Depot Given Under Restraint
-Clinical Incident,Medication (Management),Discarded Medication
-Clinical Incident,"Access, Admission, Xfer, Discharge",Discharge - Delay
-Clinical Incident,"Access, Admission, Xfer, Discharge",Discharge - Failure To Assess Prior To Discharge
-Clinical Incident,Pharmacy Interventions,Discrepancy With Previous Medication
-Clinical Incident,Care Record (Clinical Notes),Documentation Error
-Clinical Incident,Medication (Management),Documentation Error
-Clinical Incident,Safeguarding/Privacy & Dignity,Domestic Violence
-Security,Security Equipment,Door(S) Left Unlocked
-Clinical Incident,Medication (Administration),Dose Given Early
-Clinical Incident,Pharmacy Interventions,Dose Size
-Clinical Incident,Medication (Administration),Drug Given (Expired Prescription)
-Clinical Incident,Medication (Management),Drug Stock Discrepancy (None Prescription)
-Clinical Incident,Medication (Management),Drug Stock Discrepancy (Prescription Only)
-Clinical Incident,Medication (Prescription),Duplicate Prescription
-Clinical Incident,Pharmacy Interventions,Duration Of Treatment
-Clinical Incident,Pharmacy Interventions,Education Regarding Medication
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Equipment Failure
-Clinical Incident,Clinical Equipment,Equipment Faulty/Defective/Uncalibrated
-Clinical Incident,Clinical Equipment,Equipment Unavailable/Missing
-Security,Missing Patient (Sectioned),Escape (From Secure Unit)
-Clinical Incident,Medication (Management),Expired Medication
-Fire (Including Smoking Issues),Fire Regulation Issue,Failure To Cancel Fire Brigade - False Alarm
-Clinical Incident,Clinical Equipment,Failure To Check / Audit Equipment
-Clinical Incident,Medication (Consent),Failure To Gain Consent Of Patient (Using S58/T2)
-Clinical Incident,Medication (Consent),Failure To Gain SOAD Consent (Using S58/T3)
-Clinical Incident,Medication (Management),Failure To Monitor/ Check Bloods
-Clinical Incident,Care Record (Clinical Notes),Failure To Record On Notes
-Clinical Incident,Staffing Issues,Failure To Respond To Staff Attack Alarm
-Security,Missing Patient (Informal),Failure To Return From Leave (Informal)
-Security,Missing Patient (Sectioned),Failure To Return From S17 Leave (Escorted)
-Security,Missing Patient (Sectioned),Failure To Return From S17 Leave (Unescorted)
-Clinical Incident,Medication (Management),Failure/Delay In Ordering Medication From Pharmacy
-Clinical Incident,Medication (Prescription),Falsified Prescription
-Security,Security Equipment,Faulty Doors (Not) Locking
-Fire (Including Smoking Issues),False Alarm,Faulty Electrics/System Activation Of Alarm
-Fire (Including Smoking Issues),Fire - Potential Risk/Hazard,Fire Hazard Now Mitigated
-Fire (Including Smoking Issues),Fire - Potential Risk/Hazard,Fire Hazard Still Needing Mitigation
-Ill Health,Ill Health (Patient),Flu (Patient)
-Ill Health,Ill Health (Staff),Flu (Staff)
-Clinical Incident,Management Of Food,Food From Unapproved Supplier
-Clinical Incident,Management Of Food,Foreign Body Identified In Food
-Clinical Incident,Pharmacy Interventions,Formulary/Guideline Infringement
-Security,Information Governance,Freedom Of Information Issue
-Clinical Incident,Pharmacy Interventions,Frequency/Timing Of Dose
-Accident (Patient),Unexplained Patient Injury,Fresh Injury
-"Other (Estates, Facilities & Complaints)",Essential Supply Issue,Gas/Electricity/Heating
-Clinical Incident,Implementation Of Policy (Seclusion/Handcuff....),Handcuff Policy Implemented
-Clinical Incident,Self Harm (Actual),Head (Or Other) Banging
-Clinical Incident,Self Harm (Attempted),Head (Or Other) Banging (Attempted)
-Ill Health,Ill Health (Other),Heart Attack/Stroke (Other)
-Ill Health,Ill Health (Patient),Heart Attack/Stroke (Patient)
-Ill Health,Ill Health (Staff),Heart Attack/Stroke (Staff)
-Clinical Incident,Death,Homicide
-"Violence, Abuse And Harrassment",Hostage / Kidnapping Situation,Hostage/Kidnapping - Other Person Victim
-"Violence, Abuse And Harrassment",Hostage / Kidnapping Situation,Hostage/Kidnapping - Patient Victim
-"Violence, Abuse And Harrassment",Hostage / Kidnapping Situation,Hostage/Kidnapping - Staff Victim
-Ill Health,Ill Health (Other),Ill Health Other (Other)
-Ill Health,Ill Health (Other),Ill Health Unknown (Other)
-Clinical Incident,Mental Health Act,Illegal Detention - Other
-Clinical Incident,Mental Health Act,Illegal Detention - Renewal Invalid
-Clinical Incident,Mental Health Act,Illegal Detention - Section Lapsed
-Clinical Incident,Pharmacy Interventions,Illegibility/Illegality/Ambiguity
-Clinical Incident,Medication (Prescription),Illegible Prescription
-Security,Search (Environment/Bedroom),Illicit Drugs (Environmental)
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Aggressive Behaviour (Not directed at individual)
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Patient on Patient
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Patient on Staff
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Patient on Third Party
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Staff on Patient (Alleged)
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Staff on Patient (Confirmed)
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Staff on Staff (Alleged)
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Staff on Staff (Confirmed)
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Staff on Third Party (Alleged)
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Staff on Third Party (Confirmed)
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Third Party on Patient
+"Assaults, Violence & Harassment",Assault (Attempted),Attempted Assault - Third Party on Staff
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Patient on Patient
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Patient on Staff
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Patient on Third Party
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Staff on Patient (Alleged)
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Staff on Patient (Confirmed)
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Staff on Staff (Alleged)
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Staff on Staff (Confirmed)
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Staff on Third Party (Alleged)
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Staff on Third Party (Confirmed)
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Third Party on Patient
+"Assaults, Violence & Harassment",Assault (Physical),Physical - Third Party on Staff
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Patient on Patient
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Patient on Staff
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Patient on Third Party
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Staff on Patient (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Staff on Patient (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Staff on Staff (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Staff on Staff (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Staff on Third Party (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Staff on Third Party (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Third Party on Patient
+"Assaults, Violence & Harassment",(BACKEND ONLY) Assault (Sexual),Sexual - Third Party on Staff
+"Assaults, Violence & Harassment",Hostage / Kidnapping Situation,Hostage/Kidnapping - Patient Victim
+"Assaults, Violence & Harassment",Hostage / Kidnapping Situation,Hostage/Kidnapping - Staff Victim
+"Assaults, Violence & Harassment",Hostage / Kidnapping Situation,Hostage/Kidnapping - Third Party Victim
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Patient on Patient
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Patient on Staff
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Patient on Third Party
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Staff on Patient (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Staff on Patient (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Staff on Staff (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Staff on Staff (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Staff on Third Party (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Staff on Third Party (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Third Party on Patient
+"Assaults, Violence & Harassment",(BACKEND ONLY) Racial Abuse,Racial Abuse - Third Party on Staff
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Patient on Patient
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Patient on Staff
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Patient on Other
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Staff on Patient (Alleged)
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Staff on Patient (Confirmed)
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Staff on Staff (Alleged)
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Staff on Staff (Confirmed)
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Staff on Third Party (Alleged)
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Staff on Third Party (Confirmed)
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Third Party on Patient
+"Assaults, Violence & Harassment",Aggression / Threats / Intimidation,Threats / Intimidation - Third Party on Staff
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Patient on Patient
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Patient on Staff
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Patient on Third Party
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Staff on Patient (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Staff on Patient (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Staff on Staff (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Staff on Staff (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Staff on Third Party (Alleged)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Staff on Third Party (Confirmed)
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Third Party on Patient
+"Assaults, Violence & Harassment",(BACKEND ONLY) Verbal Abuse ,Verbal Abuse - Third Party on Staff
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Patient on Patient
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Patient on Staff
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Patient on Third Party
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Staff on Patient (Alleged)
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Staff on Patient (Confirmed)
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Staff on Staff (Alleged)
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Staff on Staff (Confirmed)
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Staff on Third Party (Alleged)
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Staff on Third Party (Confirmed)
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Third Party on Patient
+"Assaults, Violence & Harassment",Assaults (Non-physical),Assault (Non-physical) - Third Party on Staff
+"Access, Xfer, Discharge and Communication",Access / Admission,Access Delay (Non Inpatients)
+"Access, Xfer, Discharge and Communication",Access / Admission,Admission - Delay/Failure
+"Access, Xfer, Discharge and Communication",Access / Admission,Admission - Inappropriate
+"Access, Xfer, Discharge and Communication",Access / Admission,Admission - Inappropriate (Gender)
+"Access, Xfer, Discharge and Communication",Access / Admission,Admission - Under 18 to Adult Unit
+"Access, Xfer, Discharge and Communication",Access / Admission,Unexpected Readmission/Reattendance
+"Access, Xfer, Discharge and Communication",Access / Admission,Unplanned Admission
+"Access, Xfer, Discharge and Communication",External Discharge,Discharge - Delay/Failure
+"Access, Xfer, Discharge and Communication",External Discharge,Discharge - Inappropriate
+"Access, Xfer, Discharge and Communication",External Discharge,Discharge - Planning Failure
+"Access, Xfer, Discharge and Communication",External Discharge,Discharge - Self or Against Medical Advice
+"Access, Xfer, Discharge and Communication",Internal Transfer,Transfer - Delay/Failure
+"Access, Xfer, Discharge and Communication",Internal Transfer,Transfer - Inappropriate
+"Access, Xfer, Discharge and Communication",Patient Transportation,Patient Transportation Issues (Other)
+"Access, Xfer, Discharge and Communication",Patient Transportation,Trust Taxi Issue
+"Access, Xfer, Discharge and Communication",Referral/Communication/Handover,Communication Failure - with Internal/Partner Team
+"Access, Xfer, Discharge and Communication",Referral/Communication/Handover,Communication Failure - with Patient/Family/Carer
+"Access, Xfer, Discharge and Communication",Referral/Communication/Handover,Communication Failure - within Team
+"Access, Xfer, Discharge and Communication",Referral/Communication/Handover,Communication with External Agency/Provider
+"Access, Xfer, Discharge and Communication",Referral/Communication/Handover,Inappropriate Handover
+"Access, Xfer, Discharge and Communication",Referral/Communication/Handover,Inappropriate Referral
+"Accidents, Falls and Ill Health",Accident (Patient),Choking/Swallowing (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Collision/Contact with a Moving Object (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Collision/Contact with a Stationary Object (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Contact with Bodily Fluid (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Contact with Hot/Cold Source (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Contact with Sharp Object (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Contact with Electricity (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Exposure to Hazardous Substance (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),Injured by Animal (Patient)
+"Accidents, Falls and Ill Health",Accident (Patient),NRLS Reportable Injury from Restraint (BACK END ONLY)
+"Accidents, Falls and Ill Health",Accident (Patient),Other Accident (Patient)
+"Accidents, Falls and Ill Health",Accident (Staff),Choking/Swallowing (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Collision/Contact with a Moving Object (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Collision/Contact with a Stationary Object (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Contact with Bodily Fluid (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Contact with Hot/Cold Source (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Contact with Sharp Object - Non Needlestick (Staff) 
+"Accidents, Falls and Ill Health",Accident (Staff),Contact with Electricity (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Exposure to Hazardous Substance (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Injured by Animal (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),Manual Handling - Lifting/Moving/Operating Equipment
+"Accidents, Falls and Ill Health",Accident (Staff),Needlestick - At Point of Administering Injection
+"Accidents, Falls and Ill Health",Accident (Staff),Needlestick - At Point of Desheathing
+"Accidents, Falls and Ill Health",Accident (Staff),Needlestick - At Point of Disposal
+"Accidents, Falls and Ill Health",Accident (Staff),Needlestick - At Point of Resheathing
+"Accidents, Falls and Ill Health",Accident (Staff),Other Accident (Staff)
+"Accidents, Falls and Ill Health",Accident (Staff),People Handling - Staff Injury Whilst Handling Patient
+"Accidents, Falls and Ill Health",Accident (Staff),Road Traffic Accident  (Whilst Undertaking Trust Business)
+"Accidents, Falls and Ill Health",Accident (Third Party),Choking/Swallowing (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Collision/Contact with a Moving Object (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Collision/Contact with a Stationary Object (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Contact with Bodily Fluid (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Contact with Hot/Cold Source (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Contact with Sharp Object (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Contact with Electricity (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Exposure to Hazardous Substance (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Injured by Animal (Third Party)
+"Accidents, Falls and Ill Health",Accident (Third Party),Other Accident (Third Party)
+"Accidents, Falls and Ill Health",Ill-Health (Patient),Collapse/Fainting (Patient)
+"Accidents, Falls and Ill Health",Ill-Health (Patient),D&V (Patient)
+"Accidents, Falls and Ill Health",Ill-Health (Patient),Flu (Patient)
+"Accidents, Falls and Ill Health",Ill-Health (Patient),Heart-Attack/ Stroke (Patient)
+"Accidents, Falls and Ill Health",Ill-Health (Patient),Other (Patient)
+"Accidents, Falls and Ill Health",Ill-Health (Patient),Seizure/Fit (Patient)
+"Accidents, Falls and Ill Health",Ill-Health (Patient),Unknown (Patient)
+"Accidents, Falls and Ill Health",Ill-Health (Staff),Collapse/Fainting (Staff)
+"Accidents, Falls and Ill Health",Ill-Health (Staff),D&V (Staff)
+"Accidents, Falls and Ill Health",Ill-Health (Staff),Flu (Staff)
+"Accidents, Falls and Ill Health",Ill-Health (Staff),Heart-Attack/Stroke (Staff)
+"Accidents, Falls and Ill Health",Ill-Health (Staff),Other (Staff)
+"Accidents, Falls and Ill Health",Ill-Health (Staff),Seizure/Fit (Staff)
+"Accidents, Falls and Ill Health",Ill-Health (Staff),Unknown (Staff)
+"Accidents, Falls and Ill Health",Ill-Health (Third Party),Collapse/Fainting (Third Party)
+"Accidents, Falls and Ill Health",Ill-Health (Third Party),D&V (Third Party)
+"Accidents, Falls and Ill Health",Ill-Health (Third Party),Heart-Attack/Stroke (Third Party)
+"Accidents, Falls and Ill Health",Ill-Health (Third Party),Other (Third Party)
+"Accidents, Falls and Ill Health",Ill-Health (Third Party),Seizure/Fit (Third Party)
+"Accidents, Falls and Ill Health",Ill-Health (Third Party),Unknown (Third Party)
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Patient),Patient Fall (Unwitnessed)
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Patient),Patient Fall (Witnessed)
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Patient),Patient Found on Floor (Unknown Circumstances)
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Patient),Patient Slip/Trip 
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Staff),Staff Fall
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Staff),Staff Slip/Trip
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Third Party),Third Party Fall
+"Accidents, Falls and Ill Health",Slip/Trip/Fall (Third Party),Third Party Slip/Trip
+"Accidents, Falls and Ill Health",Unexplained Patient Injury,Fresh Injury
+"Accidents, Falls and Ill Health",Unexplained Patient Injury,Old Injury
+"Clinical Practice, Policies and Procedures",Compliance with Searches & Restrictive Interventions,Failure to Comply with Search Policy
+"Clinical Practice, Policies and Procedures",Compliance with Searches & Restrictive Interventions,Inappropriate Use of Restrictive Intervention
+"Clinical Practice, Policies and Procedures",Compliance with Searches & Restrictive Interventions,Seclusion in Area Not Designed for Seclusion
+"Clinical Practice, Policies and Procedures",Compliance with Searches & Restrictive Interventions,Seclusion of an Informal Patient
+"Clinical Practice, Policies and Procedures",Management of Infection Control,"Blood Stream Infection (E-Coli, MMSA, MRSA…)"
+"Clinical Practice, Policies and Procedures",Management of Infection Control,Clinical Waste Management
+"Clinical Practice, Policies and Procedures",Management of Infection Control,Incorrect Test Results (Specimens)
+"Clinical Practice, Policies and Procedures",Management of Infection Control,MRSA Management
+"Clinical Practice, Policies and Procedures",Management of Infection Control,Possible Transmission Risk
+"Clinical Practice, Policies and Procedures",Management of Infection Control,Tests - Failure/Delay To Undertake
+"Clinical Practice, Policies and Procedures",Management of Infection Control,Ward Closure Due To Infection Outbreak
+"Clinical Practice, Policies and Procedures",Management of Infection Control,Wound Management (Resulting In Infection)
+"Clinical Practice, Policies and Procedures",Observations,Physical Observations - Non Compliance
+"Clinical Practice, Policies and Procedures",Observations,Therapeutic Observations - Non Compliance
+"Clinical Practice, Policies and Procedures",External Organisation Service Provision Incident,Incident related to External Organisation
+"Clinical Practice, Policies and Procedures",External Organisation Service Provision Incident,Inability to Provide Care Due to Prison Regime
+"Clinical Practice, Policies and Procedures",Safeguarding/Privacy & Dignity,Breach Of Mixed-Sex Accomodation Regulation
+"Clinical Practice, Policies and Procedures",Safeguarding/Privacy & Dignity,Child Protection
+"Clinical Practice, Policies and Procedures",Safeguarding/Privacy & Dignity,Domestic Violence
+"Clinical Practice, Policies and Procedures",Safeguarding/Privacy & Dignity,Prevent / Counter-Terrorism
+"Clinical Practice, Policies and Procedures",Safeguarding/Privacy & Dignity,Privacy & Dignity Breach
+"Clinical Practice, Policies and Procedures",Safeguarding/Privacy & Dignity,Vulnerable Adult
+"Clinical Practice, Policies and Procedures",Service Provision Shortfall,Shortfall In Care Planning/Treatment Quality
+"Clinical Practice, Policies and Procedures",Service Provision Shortfall,Shortfall In Clinical Assessment Quality
+"Clinical Practice, Policies and Procedures",Service Provision Shortfall,Shortfall In Follow Up Post Discharge Quality
+"Clinical Practice, Policies and Procedures",Service Provision Shortfall,Service Disruption Due To Major Incident
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Not A Pressure Sore/Deep Tissue Injury (BACK END ONLY)
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Potential Pressure Sore
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Pressure Sore (Category 1)
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Pressure Sore (Category 2)
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Pressure Sore (Category 3)
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Pressure Sore (Category 4)
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Reperfused SDTI (BACK END ONLY)
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Suspected Deep Tissue Injury: Depth Unknown
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Unclassified at Point of Discharge (BACK END ONLY)
+"Clinical Practice, Policies and Procedures",Skin Integrity/ Tissue Viability,Unstageable: Depth Unknown
+Deaths,Death - Non Patient,Confirmed Homicide of Non-Patient by Patient (BACK END ONLY)
+Deaths,Death - Non Patient,Suspected Homicide of Non-Patient by Patient
+Deaths,Death (Expected) - Patient,Natural Cause/Clinical Condition
+Deaths,Death (Expected) - Patient,Natural Cause Death of Patient Not Yet on Case-Load
+Deaths,Death (Unexpected) - Patient,Confirmed Homicide of Patient by Patient (BACK END ONLY)
+Deaths,Death (Unexpected) - Patient,Confirmed Homicide of Patient by Other (BACK END ONLY)
+Deaths,Death (Unexpected) - Patient,Known Cause (BACK END ONLY)
+Deaths,Death (Unexpected) - Patient,Suspected Accidental / Misadventure Death
+Deaths,Death (Unexpected) - Patient,Suspected Drug / Alcohol Related Death
+Deaths,Death (Unexpected) - Patient,Suspected Homicide of Patient by a Patient
+Deaths,Death (Unexpected) - Patient,Suspected Homicide of Patient by Other
+Deaths,Death (Unexpected) - Patient,Suspected Natural Cause (Earlier Than Expected)
+Deaths,Death (Unexpected) - Patient,Suspected Neglect / Self-Neglect Related Death
+Deaths,Death (Unexpected) - Patient,Suspected Suicide
+Deaths,Death (Unexpected) - Patient,Unknown Cause
+Deaths,No Cause Group (BACK END ONLY FOR CAUSE 2),Expected Natural (EN1) (BACK END ONLY)
+Deaths,No Cause Group (BACK END ONLY FOR CAUSE 2),Expected Natural (EN2) (BACK END ONLY)
+Deaths,No Cause Group (BACK END ONLY FOR CAUSE 2),Expected Unnatural (EU) (BACK END ONLY)
+Deaths,No Cause Group (BACK END ONLY FOR CAUSE 2),Unexpected Natural (UN1) (BACK END ONLY)
+Deaths,No Cause Group (BACK END ONLY FOR CAUSE 2),Unexpected Natural (UN2) (BACK END ONLY)
+Deaths,No Cause Group (BACK END ONLY FOR CAUSE 2),Unexpected Unnatural (UU) (BACK END ONLY)
+"Documentation, Information Governance & Systems",Care Records and Appointments,Appointment Recording Error
+"Documentation, Information Governance & Systems",Care Records and Appointments,Care Record - Error
+"Documentation, Information Governance & Systems",Care Records and Appointments,Care Record - Failure to Record Information
+"Documentation, Information Governance & Systems",Care Records and Appointments,Care Record - Incorrect Transportation
+"Documentation, Information Governance & Systems",Care Records and Appointments,Care Record - Missing
+"Documentation, Information Governance & Systems",Care Records and Appointments,Care Record - No Access to Patient Record
+"Documentation, Information Governance & Systems",Care Records and Appointments,Care Record - Other
+"Documentation, Information Governance & Systems",Information Governance ,Breach Of Patient Confidentiality
+"Documentation, Information Governance & Systems",Information Governance ,Data Protection Issue
+"Documentation, Information Governance & Systems",Information Governance ,Freedom Of Information Issue
+"Documentation, Information Governance & Systems",Information Governance ,Non Confidential Environmental Risk
+"Documentation, Information Governance & Systems",Information Systems,Eclipse Issue
+"Documentation, Information Governance & Systems",Information Systems,EMIS Issue
+"Documentation, Information Governance & Systems",Information Systems,EPMA Issue
+"Documentation, Information Governance & Systems",Information Systems,e-Rostering Issue
+"Documentation, Information Governance & Systems",Information Systems,ESR Issue
+"Documentation, Information Governance & Systems",Information Systems,IaPtus Issue
+"Documentation, Information Governance & Systems",Information Systems,Illy Issue
+"Documentation, Information Governance & Systems",Information Systems,Other System Issue
+"Documentation, Information Governance & Systems",Information Systems,RiO Issue
+"Documentation, Information Governance & Systems",Information Systems,System One Issue
+"Estates, Facilities and Fire",Equipment Issues,Equipment - Accidental Damage
+"Estates, Facilities and Fire",Equipment Issues,Equipment - Contaminated
+"Estates, Facilities and Fire",Equipment Issues,Equipment - Failure/Malfunction
+"Estates, Facilities and Fire",Equipment Issues,Equipment - Unavailable
+"Estates, Facilities and Fire",Equipment Issues,Equipment - User Error
+"Estates, Facilities and Fire",Equipment Issues,Equipment - Used by unauthorised person(s)
+"Estates, Facilities and Fire",Estates Infrastructure Issues,Failure of Fixtures and Fittings
+"Estates, Facilities and Fire",Estates Infrastructure Issues,Gas/Electricity/Heating
+"Estates, Facilities and Fire",Estates Infrastructure Issues,Lift Failure
+"Estates, Facilities and Fire",Estates Infrastructure Issues,Supply of Essential Goods and Services
+"Estates, Facilities and Fire",Estates Infrastructure Issues,Telecommunications/Network
+"Estates, Facilities and Fire",Estates Infrastructure Issues,Unsafe/Unsuitable Physical Environment
+"Estates, Facilities and Fire",Estates Infrastructure Issues,Water Supply
+"Estates, Facilities and Fire",Facilities  Issues,House Keeping Issues
+"Estates, Facilities and Fire",Facilities  Issues,Domestic Issues
+"Estates, Facilities and Fire",Facilities  Issues,Hotel Services Issues
+"Estates, Facilities and Fire",Facilities  Issues,Non-Clinical Waste Management 
+"Estates, Facilities and Fire",Fire - Potential Risk/Hazard,Fire Hazard Now Mitigated
+"Estates, Facilities and Fire",Fire - Potential Risk/Hazard,Fire Hazard Still Needs Mitigation
+"Estates, Facilities and Fire",Fire and False Fire Alarms,False Alarm - Accidental Activation
+"Estates, Facilities and Fire",Fire and False Fire Alarms,False Alarm - Faulty Electrics/System Activation
+"Estates, Facilities and Fire",Fire and False Fire Alarms,False Alarm - Malicious Activation
+"Estates, Facilities and Fire",Fire and False Fire Alarms,False Alarm - Smoking Activation
+"Estates, Facilities and Fire",Fire and False Fire Alarms,False Alarm - Steam/Heat Activation
+"Estates, Facilities and Fire",Fire and False Fire Alarms,Fire - Accidental
+"Estates, Facilities and Fire",Fire and False Fire Alarms,Fire - Reason Undetermined
+"Estates, Facilities and Fire",Fire and False Fire Alarms,Fire - Wilful/Arson
+"Estates, Facilities and Fire",Management of Food,Food From Unapproved Supplier
+"Estates, Facilities and Fire",Management of Food,Foreign Body Identified in Food
+"Estates, Facilities and Fire",Management of Food,Inappropriate Storage of Food
+"Estates, Facilities and Fire",Management of Food,No Appropriate Ethnic/Dietary option
+"Estates, Facilities and Fire",Management of Food,Other Catering Issues
+"Estates, Facilities and Fire",Management of Food,Other Food Safety Issue
+"Estates, Facilities and Fire",Management of Food,Out of Date Food
+"Estates, Facilities and Fire",Medical Devices Issues,Medical Device - Accidental Damage
+"Estates, Facilities and Fire",Medical Devices Issues,Medical Device - Contaminated
+"Estates, Facilities and Fire",Medical Devices Issues,Medical Device - Failure/Malfunction
+"Estates, Facilities and Fire",Medical Devices Issues,Medical Device - Unavailable
+"Estates, Facilities and Fire",Medical Devices Issues,Medical Device - User Error
+"Estates, Facilities and Fire",Trust Vehicle Incidents,Other Incident (Trust Vehicle)
+"Estates, Facilities and Fire",Trust Vehicle Incidents,Trust Vehicle Accident
+Medications,Medication (Administration),Wrong Time/Date - Drug Given Late
+Medications,Medication (Administration),Wrong Time/Date - Drug Given Early
+Medications,Medication (Administration),Dose(s) Missed/Omitted 
+Medications,Medication (Administration),Dose Repeated / Drug Administered Twice
+Medications,Medication (Administration),Drug Administered (Expired Prescription)
+Medications,Medication (Administration),Medication Given For The Wrong Number Of Days
+Medications,Medication (Administration),Wrong Dose Given
+Medications,Medication (Administration),Wrong Drug Given
+Medications,Medication (Administration),Wrong Patient
+Medications,Medication (Administration),Wrong Route
+Medications,Medication (Dispensing),Labelling - Completely Wrong Label Applied
+Medications,Medication (Dispensing),Labelling - Incomplete/Missing Information
+Medications,Medication (Dispensing),Labelling - Incorrect Quantity Quoted
+Medications,Medication (Dispensing),Labelling - Wrong Directions Quoted
+Medications,Medication (Dispensing),Labelling - Wrong Medication Name
+Medications,Medication (Dispensing),Labelling - Wrong Patient Name/Number
+Medications,Medication (Dispensing),Labelling - Wrong Strength Quoted
+Medications,Medication (Dispensing),Labelling - Wrong Ward / Team Quoted
+Medications,Medication (Dispensing),Medication - Dispensing Delay
+Medications,Medication (Dispensing),Medication - Expired Stock Dispensed
+Medications,Medication (Dispensing),Medication - Incorrect Quantity Dispensed
+Medications,Medication (Dispensing),Medication - Wrong Formulation Dispensed
+Medications,Medication (Dispensing),Medication - Wrong Medication Dispensed
+Medications,Medication (Dispensing),Medication - Wrong Strength Dispensed
+Medications,Medication (Management),Drug Stock Discrepancy - None Prescription
+Medications,Medication (Management),Drug Stock Discrepancy - Prescription Only
+Medications,Medication (Management),Failure/Delay - Monitoring/Checking Bloods
+Medications,Medication (Management),Failure/Delay - Ordering Medication From Pharmacy
+Medications,Medication (Management),Medication - Discarded 
+Medications,Medication (Management),Medication - Dropped/Spilled
+Medications,Medication (Management),Medication - Expired
+Medications,Medication (Management),Medication - Storage of
+Medications,Medication (Management),Medication - Transportation of
+Medications,Medication (Management),Medication Related - Documentation Error 
+Medications,Medication (Management),Medications Related - Communication
+Medications,Medication (Management),Missing Blood Test Sample/Results
+Medications,Medication (Management),Patient Self Administration Error
+Medications,Medication (Management),Primary Dispensing
+Medications,Medication (Prescription),Prescription - Duplicated
+Medications,Medication (Prescription),Prescription - Falsified 
+Medications,Medication (Prescription),Prescription - Illegible 
+Medications,Medication (Prescription),Prescription - Lost 
+Medications,Medication (Prescription),Prescription - Incomplete
+Medications,Medication (Prescription),Prescription - Not Signed
+Medications,Medication (Prescription),Prescription - Wrong Dose Prescribed
+Medications,Medication (Prescription),Prescription - Wrong Directions Prescribed
+Medications,Medication (Prescription),Prescription - Wrong Formulation Prescribed
+Medications,Medication (Prescription),Prescription - Wrong Medication Prescribed
+Medications,Medication (Side Effect/Allergy),Allergy - Known
+Medications,Medication (Side Effect/Allergy),Allergy - Unknown
+Medications,Medication (Side Effect/Allergy),Side Effect Of Administered Drug
+Medications,Pharmacy Interventions,Adverse Effects
+Medications,Pharmacy Interventions,Allergy Status
+Medications,Pharmacy Interventions,Blood Tests/TDM/Physical Monitoring
+Medications,Pharmacy Interventions,Choice Of Therapy
+Medications,Pharmacy Interventions,Discrepancy With Previous Medication
+Medications,Pharmacy Interventions,Dose Size
+Medications,Pharmacy Interventions,Duration Of Treatment
+Medications,Pharmacy Interventions,Education Regarding Medication
+Medications,Pharmacy Interventions,Formulary/Guideline Infringement
+Medications,Pharmacy Interventions,Frequency/Timing Of Dose
+Medications,Pharmacy Interventions,Illegibility/Illegality/Ambiguity
+Medications,Pharmacy Interventions,Interaction
+Medications,Pharmacy Interventions,Medication History
+Medications,Pharmacy Interventions,Medication Supply
+Medications,Pharmacy Interventions,Medicines Reconciliation
+Medications,Pharmacy Interventions,Mental Health Act Compliance
+Medications,Pharmacy Interventions,Monitor Medication Efficacy
+Medications,Pharmacy Interventions,Other Pharmacy Intervention
+Medications,Pharmacy Interventions,Route Of Administration
+Medications,Pharmacy Interventions,Self-Medication
+Medications,Pharmacy Interventions,Smoking Cessation
+Medications,Pharmacy Interventions,SOAD Discussion
+Medications,Treatment Non-Compliance ,Depot Given Under Restraint
+Medications,Treatment Non-Compliance ,Medication Refused - Given Under Restraint
+Medications,Treatment Non-Compliance ,Medication Refused - Not Given
+Medications,Treatment Non-Compliance ,Naso-Gastric Feed Given
+Medications,Treatment Non-Compliance ,Service User Diversion Of Medication
+Mental Health Legislation,DoLS & MCA,DoLS - Expired Extended Urgent Authorisation
+Mental Health Legislation,DoLS & MCA,DoLS - Expired Standard Authorisation
+Mental Health Legislation,DoLS & MCA,DoLS - Expired Urgent Authorisation
+Mental Health Legislation,DoLS & MCA,MCA - Assessment Outcome Not Received
+Mental Health Legislation,DoLS & MCA,MCA - Capacity Assessment Not Completed When Required
+Mental Health Legislation,AMHP Related Issues,AMHP - Assessment Report Not Present
+Mental Health Legislation,AMHP Related Issues,AMHP - No Access
+Mental Health Legislation,Illegal Detentions,Illegal Detention - Admission / Transfer Not Authorised
+Mental Health Legislation,Illegal Detentions,Illegal Detention - Paperwork Error / Incomplete
+Mental Health Legislation,Illegal Detentions,Illegal Detention - Section Lapsed
+Mental Health Legislation,Medication (Consent),Consent to Treatment Not Completed
+Mental Health Legislation,Medication (Consent),CTO11 - Treatment Administered - Not Authorised
+Mental Health Legislation,Medication (Consent),CTO11 - Treatment Prescribed - Not Authorised
+Mental Health Legislation,Medication (Consent),CTO12 - Treatment Administered - Not Authorised
+Mental Health Legislation,Medication (Consent),CTO12 - Treatment Prescribed - Not Authorised
+Mental Health Legislation,Medication (Consent),S62 - Treatment Administered - Not Authorised
+Mental Health Legislation,Medication (Consent),S62 - Treatment Prescribed - Not Authorised
+Mental Health Legislation,Medication (Consent),S64 - Treatment Administered - Not Authorised
+Mental Health Legislation,Medication (Consent),S64 - Treatment Prescribed - Not Authorised
+Mental Health Legislation,Medication (Consent),T2 - Treatment Administered - Not Authorised
+Mental Health Legislation,Medication (Consent),T2 - Treatment Prescribed - Not Authorised
+Mental Health Legislation,Medication (Consent),T3 - Treatment Administered - Not Authorised
+Mental Health Legislation,Medication (Consent),T3 - Treatment Prescribed - Not Authorised
+Mental Health Legislation,Section 17 Recording,Section 17 - Breach of Leave Conditions (Not Absconsion or AWOL)
+Mental Health Legislation,Section 17 Recording,Section 17 - Leave Prescription Incorrect / Invalid
+Mental Health Legislation,Section 17 Recording,Section 17 - No Photograph on RiO
+Mental Health Legislation,Tribunals & Renewal Hearings,Late Lay Manager Renewal Hearing
+Mental Health Legislation,Tribunals & Renewal Hearings,Tribunal - Breach of Practice Directions
+Missing Patients and Attempted Absconsions,Attempted Absconsion of Inpatients,Attempted Absconsion from A&E or Other Healthcare Facility
+Missing Patients and Attempted Absconsions,Attempted Absconsion of Inpatients,Attempted Absconsion from Inpatient Site
+Missing Patients and Attempted Absconsions,Attempted Absconsion of Inpatients,Attempted Absconsion Whilst on Leave
+Missing Patients and Attempted Absconsions,Missing Patient (Community),Missing Community Patient
+Missing Patients and Attempted Absconsions,Missing Patient (Detained),Absconsion from A&E or Other Healthcare Facility
+Missing Patients and Attempted Absconsions,Missing Patient (Detained),Absconsion from Inpatient Site
+Missing Patients and Attempted Absconsions,Missing Patient (Detained),Failure to Return from S17 Leave (Escorted)
+Missing Patients and Attempted Absconsions,Missing Patient (Detained),Failure to Return from S17 Leave (Unescorted)
+Missing Patients and Attempted Absconsions,Missing patient (Informal),Failure to Return from Leave (Informal)
+Missing Patients and Attempted Absconsions,Missing patient (Informal),Patient Missing from Unit (Informal)
+Security,Contraband Found (Environmental/Bedroom Search),Illicit Drugs (Environment)
+Security,Contraband Found (Environmental/Bedroom Search),Other Contraband found (Environment)
+Security,Contraband Found (Environmental/Bedroom Search),Weapon(s)/Sharps (Environment)
 Security,Contraband Found (No Search Involved),Illicit Drugs (No Search)
-Security,Search (Personal),Illicit Drugs Found (Personal)
-Clinical Incident,Staffing Issues,Inadequate Staffing Level
-Clinical Incident,Communication / Handover,Inappropriate Handover
-Clinical Incident,"Access, Admission, Xfer, Discharge",Inappropriate Referral
-Clinical Incident,Management Of Food,Inappropriate Storage Of Food
-Clinical Incident,Communication / Handover,Incorrect Information Relayed
-Clinical Incident,Management Of Infection Control,Incorrect Test Results (Specimens)
-Clinical Incident,Care Record (Clinical Notes),Incorrect Transportation Of Care Records
-Fire (Including Smoking Issues),Fire Regulation Issue,Incorrect Use Of Fire Extinguisher
-Clinical Incident,Self Harm (Actual),Insertion/Ingestion
-Clinical Incident,Self Harm (Attempted),Insertion/Ingestion (Attempted)
-Security,Security Equipment,Insufficient Pagers/Alarms Available
-Clinical Incident,Pharmacy Interventions,Interaction
-Security,Intrusion / Trespassing / Break In,Intruder / Trespasser
-Clinical Incident,Mental Health Act,Invalid Section 17 Paperwork
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,IT System Issue
-Clinical Incident,Self Harm (Actual),Jump From Height
-Clinical Incident,Self Harm (Attempted),Jump From Height (Attempted)
-Clinical Incident,Medication (Dispensing),Labelling - Completely Wrong Label Applied
-Clinical Incident,Medication (Dispensing),Labelling - Incomplete/Missing Information
-Clinical Incident,Medication (Dispensing),Labelling - Incorrect Quantity Quoted
-Clinical Incident,Medication (Dispensing),Labelling - Wrong Directions Quoted
-Clinical Incident,Medication (Dispensing),Labelling - Wrong Medication Name
-Clinical Incident,Medication (Dispensing),Labelling - Wrong Patient Name/Number
-Clinical Incident,Medication (Dispensing),Labelling - Wrong Strength Quoted
-Clinical Incident,Medication (Dispensing),Labelling - Wrong Ward / Team Quoted
-Accident (Non Patient),Manual Handling,Lifting/Moving/Operating Equipment
-Clinical Incident,Self Harm (Actual),Ligature/Asphyxiation/Suffocation
-Clinical Incident,Self Harm (Attempted),Ligature/Asphyxiation/Suffocation (Attempted)
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Lighting Broken / Faulty / Inappropriate
-Security,Finance,Loses And Special Payments
-Clinical Incident,Medication (Prescription),Lost Prescription
-Fire (Including Smoking Issues),False Alarm,Malicious Activation Of Alarm
-Clinical Incident,Medication (Dispensing),Medication - Dispensing Delay
-Clinical Incident,Medication (Dispensing),Medication - Expired Stock Dispensed
-Clinical Incident,Medication (Dispensing),Medication - Incorrect Quantity
-Clinical Incident,Medication (Dispensing),Medication - Wrong Formulation
-Clinical Incident,Medication (Dispensing),Medication - Wrong Medication Dispensed
-Clinical Incident,Medication (Dispensing),Medication - Wrong Strength
-Clinical Incident,Medication (Administration),Medication Given For The Wrong Number Of Days
-Clinical Incident,Pharmacy Interventions,Medication History
-Clinical Incident,Treatment Non-Compliance,Medication Refused (Given Under Restraint)
-Clinical Incident,Pharmacy Interventions,Medication Supply
-Clinical Incident,Pharmacy Interventions,Medicines Reconciliation
-Clinical Incident,Pharmacy Interventions,Mental Health Act Compliance
-Clinical Incident,Mental Health Act,MHA - Other
-Clinical Incident,Death,Misadventure/Accidental
-Clinical Incident,Medication (Management),Missing Blood Test Sample/Results
-Clinical Incident,Care Record (Clinical Notes),Missing Care Record (Notes)
-Security,Missing Patient (Community),Missing Community Patient
-Security,Property Theft/Loss/Damage,Missing Property (Patient)
-Security,Property Theft/Loss/Damage,Missing Property (Staff)
-Security,Property Theft/Loss/Damage,Missing Property - Alarm/Pager (Trust)
-Security,Property Theft/Loss/Damage,Missing Property - Keys/Pass (Trust)
-Security,Property Theft/Loss/Damage,Missing Property - Other (Trust)
-Clinical Incident,Pharmacy Interventions,Monitor Medication Efficacy
-Clinical Incident,Management Of Infection Control,MRSA Management
-Clinical Incident,Treatment Non-Compliance,Naso-Gastric Feed Given
-Clinical Incident,Death,Natural Causes
-Accident (Non Patient),Needlestick,Needlestick At Point Of Administering Injection
-Accident (Non Patient),Needlestick,Needlestick At Point Of Desheathing
-Accident (Non Patient),Needlestick,Needlestick At Point Of Disposal
-Accident (Non Patient),Needlestick,Needlestick At Point Of Resheathing
-Clinical Incident,Routine Drug Screening,Negative Result (Illicit Drugs)
-Clinical Incident,Management Of Food,No Appropriate Ethnic/Vegetarian Option
-Clinical Incident,Staffing Issues,No Second Qualified To Administer Meds
-Security,Information Governance,Non Confidential Environment Risk
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Not A Pressure Sore / Deep Tissue Injury
-Accident (Patient),Unexplained Patient Injury,Old Injury
-Clinical Incident,Medication (Administration),Omission (Dose(S) Missed)
-Clinical Incident,Pharmacy Interventions,Other
-Ill Health,Ill Health (Patient),Other (Patient)
-Ill Health,Ill Health (Staff),Other (Staff)
-Accident (Non Patient),Other Type Of Accident (Non Patient),Other Accident - Injury Sustained (Non Patient)
-Accident (Patient),Other Type Of Accident (Patient),Other Accident - Injury Sustained (Patient)
-Accident (Non Patient),Other Type Of Accident (Non Patient),Other Accident - No Injury Sustained (Non Patient)
-Accident (Patient),Other Type Of Accident (Patient),Other Accident - No Injury Sustained (Patient)
-Security,Search (Environment/Bedroom),Other Contraband Found (Environmental)
 Security,Contraband Found (No Search Involved),Other Contraband Found (No Search)
-Security,Search (Personal),Other Contraband Found (Personal)
-Clinical Incident,Management Of Food,Other Food Safety Issue
-"Other (Estates, Facilities & Complaints)",Vehicle Incident,Other Incident (Non-Trust Vehicle)
-"Other (Estates, Facilities & Complaints)",Vehicle Incident,Other Incident (Trust Vehicle)
-Clinical Incident,Management Of Food,Out Of Date Food
-Clinical Incident,Self Harm (Actual),Overdose/Medication/Drugs
-Clinical Incident,Self Harm (Attempted),Overdose/Medication/Drugs (Attempted)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - Down Stairs (Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - Down Stairs (No Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - From Bed (Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - From Bed (No Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - From Chair (Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - From Chair (No Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - From Toilet/Commode (Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Fall - From Toilet/Commode (No Injury)
-Accident (Patient),Slip/Trip/Fall (Unwitnessed),Patient Found On Floor  (Injury)
-Accident (Patient),Slip/Trip/Fall (Unwitnessed),Patient Found On Floor (No Injury)
-Security,Missing Patient (Informal),Patient Missing From Unit
-Clinical Incident,Implementation Of Policy (Seclusion/Handcuff....),Patient Placed In Isolation
-Clinical Incident,Implementation Of Policy (Seclusion/Handcuff....),Patient Placed In Seclusion
-Clinical Incident,Medication (Management),Patient Self Administration Error
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Slip Or Trip (Injury)
-Accident (Patient),Slip/Trip/Fall (Witnessed),Patient Slip Or Trip (No Injury)
-Security,Finance,Petty Cash Imbalance
-"Violence, Abuse And Harrassment",Aggressive Behaviour,Physical - Disruptive Behaviour
-Clinical Incident,Inappropriate Behaviour,Physical - Inappropriate Behaviour
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Other On Pt (Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Other On Pt (No Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Other On Staff (Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Other On Staff (No Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Pt On Other (Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Pt On Other (No Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Pt On Pt (Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Pt On Pt (No Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Pt On St (Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - Pt On St (No Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - St On Pt (Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - St On Pt (No Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - St On St (Injury)
-"Violence, Abuse And Harrassment",Assault (Physical),Physical - St On St (No Injury)
-Clinical Incident,Observations,Physical Observations - Non Compliance
-Clinical Incident,Routine Drug Screening,Positive Result (Illicit Drugs)
-Clinical Incident,Management Of Infection Control,Possible Transmission Risk
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Potential Ligature Point
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Potential Pressure Sore
-Clinical Incident,Medication (Prescription),Prescription Incomplete
-Clinical Incident,Medication (Prescription),Prescription Not Signed
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Pressure Sore (Category 1)
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Pressure Sore (Category 2)
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Pressure Sore (Category 3)
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Pressure Sore (Category 4)
-Clinical Incident,Safeguarding/Privacy & Dignity,Prevent / Counter-Terrorism
-Clinical Incident,Medication (Management),Primary Dispensing
-Security,Security Equipment,Prison Cell Door Opening
-Clinical Incident,Safeguarding/Privacy & Dignity,Privacy & Dignity Breach
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Problem Gaining Access To Building
-Clinical Incident,Staffing Issues,Professional Misconduct
-Security,Property Theft/Loss/Damage,Property Damage (Patient)
-Security,Property Theft/Loss/Damage,Property Damage (Staff)
-Security,Property Theft/Loss/Damage,Property Damage (Trust)
-"Violence, Abuse And Harrassment",Aggressive Behaviour,Racial - Disruptive Behaviour
-Clinical Incident,Inappropriate Behaviour,Racial - Inappropriate Behaviour
-"Violence, Abuse And Harrassment",Racial Abuse,Racial - Other On Pt
-"Violence, Abuse And Harrassment",Racial Abuse,Racial - Other On St
-"Violence, Abuse And Harrassment",Racial Abuse,Racial - Pt On Other
-"Violence, Abuse And Harrassment",Racial Abuse,Racial - Pt On Pt
-"Violence, Abuse And Harrassment",Racial Abuse,Racial - Pt On St
-"Violence, Abuse And Harrassment",Racial Abuse,Racial - St On Pt
-"Violence, Abuse And Harrassment",Racial Abuse,Racial - St On St
-Clinical Incident,Treatment Non-Compliance,Refused Medication (Not Given)
-Clinical Incident,Medication (Administration),Repeated Dose (Drug Given Twice)
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Reperfused SDTI
-Clinical Incident,NRLS Reportable Injury From Restraint,Restraint
-Clinical Incident,Care Record (Clinical Notes),RiO Error
-Clinical Incident,Pharmacy Interventions,Route Of Administration
-Accident (Non Patient),Slip/Trip/Fall (Non Patient),S/T/F - Injury Sustained (Other)
-Accident (Non Patient),Slip/Trip/Fall (Non Patient),S/T/F - Injury Sustained (Staff)
-Accident (Non Patient),Slip/Trip/Fall (Non Patient),S/T/F - No Injury Sustained (Other)
-Accident (Non Patient),Slip/Trip/Fall (Non Patient),S/T/F - No Injury Sustained (Staff)
-Security,Security Equipment,Security Breach
-Ill Health,Ill Health (Patient),Seizure/Fit (Patient)
-Clinical Incident,Pharmacy Interventions,Self-Medication
-Clinical Incident,Treatment Non-Compliance,Service User Diversion Of Medication
-"Violence, Abuse And Harrassment",Aggressive Behaviour,Sexual - Disruptive Behaviour
-Clinical Incident,Inappropriate Behaviour,Sexual - Inappropriate Behaviour
-"Violence, Abuse And Harrassment",Assault (Sexual),Sexual - Other On Pt
-"Violence, Abuse And Harrassment",Assault (Sexual),Sexual - Pt On Other
-"Violence, Abuse And Harrassment",Assault (Sexual),Sexual - Pt On Pt
-"Violence, Abuse And Harrassment",Assault (Sexual),Sexual - Pt On St
-"Violence, Abuse And Harrassment",Assault (Sexual),Sexual - St On Pt
-"Violence, Abuse And Harrassment",Assault (Sexual),Sexual - St On St
-Clinical Incident,Service Provision Shortfall,Shortfall In Care Planning/Treatment Quality
-Clinical Incident,Service Provision Shortfall,Shortfall In Clinical Assessment Quality
-Clinical Incident,Service Provision Shortfall,Shortfall In Follow Up Post Discharge Quality
-Clinical Incident,Medication (Side Effect / Allergy),Side Effect Of Administered Drug
-Clinical Incident,Pharmacy Interventions,Smoking Cessation
-Fire (Including Smoking Issues),Smoking In Undesignated Area,Smoking In A Trust Building
-Fire (Including Smoking Issues),Smoking In Undesignated Area,Smoking On Trust Site Inappropriately
-Clinical Incident,Pharmacy Interventions,SOAD Discussion
-Accident (Non Patient),Manual Handling,Staff Injury Whilst Handling Patient
-Fire (Including Smoking Issues),False Alarm,Steam/Heat Activation Of Alarm
-Clinical Incident,Medication (Management),Storage Of Medicine
-"Other (Estates, Facilities & Complaints)",Essential Supply Issue,Supply Of Essential Goods And Services
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Suspected Deep Tissue Injury:Depth Unknown
-Clinical Incident,Death,Suspected Suicide (Actual)
-Clinical Incident,Self Harm (Actual),Suspected Suicide (Attempted)
-Clinical Incident,Management Of Infection Control,Tests - Failure / Delay To Undertake
-Security,Property Theft/Loss/Damage,Theft Of Property (Patient)
-Security,Property Theft/Loss/Damage,Theft Of Property (Staff)
-Security,Property Theft/Loss/Damage,Theft Of Property (Trust)
-Clinical Incident,Observations,Therapeutic Observations - Non Compliance
-"Violence, Abuse And Harrassment",Threats To Harm Other(S),Threats - Other On Pt
-"Violence, Abuse And Harrassment",Threats To Harm Other(S),Threats - Other On St
-"Violence, Abuse And Harrassment",Threats To Harm Other(S),Threats - Pt On Other
-"Violence, Abuse And Harrassment",Threats To Harm Other(S),Threats - Pt On Pt
-"Violence, Abuse And Harrassment",Threats To Harm Other(S),Threats - Pt On St
-"Violence, Abuse And Harrassment",Threats To Harm Other(S),Threats - St On Pt
-"Violence, Abuse And Harrassment",Threats To Harm Other(S),Threats - St On St
-Clinical Incident,"Access, Admission, Xfer, Discharge",Transfer Delay
-Clinical Incident,"Access, Admission, Xfer, Discharge",Transportation Issue
-Clinical Incident,Medication (Management),Transportation Of Medicine
-Clinical Incident,Staffing Issues,Unavailability Of Doctor
-Clinical Incident,Staffing Issues,Unavailability Of Other Professional Staff Member
-Clinical Incident,Staffing Issues,Unavailability Or Lack Of Interpretor(S)
-Ill Health,Ill Health (Patient),Unknown (Patient)
-Ill Health,Ill Health (Staff),Unknown (Staff)
-Clinical Incident,Death,Unknown Cause
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Unsafe Equipment
-"Other (Estates, Facilities & Complaints)",Infrastructure / Maintenance Issue,Unsafe Physical Environment
-Clinical Incident,Pressure Sore/Deep Tissue Injury,Unstageable: Depth Unknown
-"Other (Estates, Facilities & Complaints)",Vehicle Incident,Vehicle Accident - Trust Driver At Fault
-"Other (Estates, Facilities & Complaints)",Vehicle Incident,Vehicle Accident - Trust Driver At Not Fault
-"Violence, Abuse And Harrassment",Aggressive Behaviour,Verbal - Disruptive Behaviour
-Clinical Incident,Inappropriate Behaviour,Verbal - Inappropriate Behaviour
-"Violence, Abuse And Harrassment",Verbal Abuse,Verbal - Other On Pt
-"Violence, Abuse And Harrassment",Verbal Abuse,Verbal - Other On St
-"Violence, Abuse And Harrassment",Verbal Abuse,Verbal - Pt On Other
-"Violence, Abuse And Harrassment",Verbal Abuse,Verbal - Pt On Pt
-"Violence, Abuse And Harrassment",Verbal Abuse,Verbal - Pt On St
-"Violence, Abuse And Harrassment",Verbal Abuse,Verbal - St On Pt
-"Violence, Abuse And Harrassment",Verbal Abuse,Verbal - St On St
-Clinical Incident,Self Harm (Verbalisation),Verbalised Threats To Self Harm
-Clinical Incident,Safeguarding/Privacy & Dignity,Vulnerable Adult
-Clinical Incident,Management Of Infection Control,Ward Closure Due To Infection Outbreak
-"Other (Estates, Facilities & Complaints)",Essential Supply Issue,Water Supply
-Security,Search (Environment/Bedroom),Weapon(S)/sharps (Environmental)
-Security,Contraband Found (No Search Involved),Weapon(S)/sharps (No Search)
-Security,Search (Personal),Weapon(S)/Sharps (Personal)
-Fire (Including Smoking Issues),Fire,Wilful/Arson
-Clinical Incident,Management Of Infection Control,Wound Management (Resulting In Infection)
-Clinical Incident,Medication (Administration),Wrong Dose Given
-Clinical Incident,Medication (Prescription),Wrong Dose Prescribed
-Clinical Incident,Medication (Administration),Wrong Drug Given
-Clinical Incident,Medication (Prescription),Wrong Medication Prescribed
-Clinical Incident,Medication (Administration),Wrong Patient
-Clinical Incident,Care Record (Clinical Notes),Wrong Patient Records Sent For Clinic
-Clinical Incident,Medication (Administration),Wrong Route
+Security,Contraband Found (No Search Involved),Weapon(s)/Sharps (No Search)
+Security,Contraband Found (Personal Search),Illicit Drugs (Personal)
+Security,Contraband Found (Personal Search),Other Contraband Found (Personal)
+Security,Contraband Found (Personal Search),Weapon(s)/Sharps (Personal)
+Security,Finance and Fraud,Fraud
+Security,Finance and Fraud,Loses and Special Payments
+Security,Finance and Fraud,Petty Cash Imbalance
+Security,Intrusion/Trespassing/Break In ,Break-In to Trust Premises
+Security,Intrusion/Trespassing/Break In ,Intruder/Trespasser
+Security,Other Security Events ,Security Threat/Scare
+Security,Other Security Events ,Physical Security Breach
+Security,Other Security Events ,Other Suspected Criminal Activity
+Security,Property Theft/Loss/Damage,Missing Property - (Patient)
+Security,Property Theft/Loss/Damage,Missing Property - (Staff)
+Security,Property Theft/Loss/Damage,Missing Property - (Trust)
+Security,Property Theft/Loss/Damage,Vandalism
+Security,Routine Drug Screening,Negative Result (Illicit Drugs)
+Security,Routine Drug Screening,Positive Result (Illicit Drugs)
+Security,"Security Equipment, Safety Alarms and Lone Working",Door(s) Left Unlocked
+Security,"Security Equipment, Safety Alarms and Lone Working",Door(s) Not Locking (Faulty)
+Security,"Security Equipment, Safety Alarms and Lone Working",Insufficient Pagers/Alarms Available
+Security,"Security Equipment, Safety Alarms and Lone Working",Security Alarm - Alarm Failure/Issue
+Security,"Security Equipment, Safety Alarms and Lone Working",Staff Attack Alarm - Failure to Respond to 
+Security,"Security Equipment, Safety Alarms and Lone Working",Staff Attack Alarm - Alarm Failure/Issue
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Inappropriate Behaviour - Physical
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Inappropriate Behaviour - Verbal
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Inappropriate Behaviour - Non-Verbal
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Smoking in Breach of Trust Policy
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Suspected Use of Alcohol (On Trust Premises)
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Suspected Use of Alcohol (Off Trust Premises)
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Suspected Use of Illicit Substance (On Trust Premises)
+Self-Harm and Patient Behaviour,Inappropriate Patient Behaviour,Suspected Use of Illicit Substance (Off Trust Premises)
+Self-Harm and Patient Behaviour,Self-Harm Actual,Biting 
+Self-Harm and Patient Behaviour,Self-Harm Actual,Burning/Scalding
+Self-Harm and Patient Behaviour,Self-Harm Actual,Cutting
+Self-Harm and Patient Behaviour,Self-Harm Actual,Food Refusal
+Self-Harm and Patient Behaviour,Self-Harm Actual,Head Banging
+Self-Harm and Patient Behaviour,Self-Harm Actual,Hitting Self
+Self-Harm and Patient Behaviour,Self-Harm Actual,Illicit Substance
+Self-Harm and Patient Behaviour,Self-Harm Actual,Ingestion of Foreign Object/Substance
+Self-Harm and Patient Behaviour,Self-Harm Actual,Insertion
+Self-Harm and Patient Behaviour,Self-Harm Actual,Jump from Height
+Self-Harm and Patient Behaviour,Self-Harm Actual,Ligature with Anchor Point
+Self-Harm and Patient Behaviour,Self-Harm Actual,Ligature with No Anchor Point
+Self-Harm and Patient Behaviour,Self-Harm Actual,Medication Overdose
+Self-Harm and Patient Behaviour,Self-Harm Actual,Suffocation
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Biting (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Burning/Scalding (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Cutting (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Food Refusal (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Hitting Self (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Head Banging (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Illicit Substance (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Ingestion of Foreign Object/Substance (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Insertion (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Jump from Height (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Ligature with Anchor Point (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Ligature with No Anchor Point (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Medication Overdose (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Suffocation (Attempted)
+Self-Harm and Patient Behaviour,Self-Harm Attempted/Verbalised,Verbalised Threats to Self-Harm
+Staffing & Workforce,Human Resources/Workforce Planning,Breach of Working Time Regulations
+Staffing & Workforce,Human Resources/Workforce Planning,Delays in Recruitment Process
+Staffing & Workforce,Human Resources/Workforce Planning,Professional Registration Lapse
+Staffing & Workforce,Professional Conduct/Competency,Concerns About Conduct of Staff
+Staffing & Workforce,Professional Conduct/Competency,Concerns Over Staff Competency
+Staffing & Workforce,Team Staffing Levels,Inadequate Staffing Level
+Staffing & Workforce,Team Staffing Levels,Inappropriate Skill Mix
+Staffing & Workforce,Unavailability of Non-Rota Staff,Unavailability of Doctor
+Staffing & Workforce,Unavailability of Non-Rota Staff,Unavailability of Other Professional Staff Member
+Staffing & Workforce,Unavailability of Non-Rota Staff,Unavailability or Lack Interpreter(s)

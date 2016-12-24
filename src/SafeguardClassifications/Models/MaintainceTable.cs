@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CsvHelper;
 
+
 namespace SafeguardClassifications.Models 
 {
     public class MaintainanceTable : IEnumerable<Classification>
@@ -19,9 +20,9 @@ namespace SafeguardClassifications.Models
 
         public MaintainanceTable()
         {
-            
-            Classifications = ImportFile();
 
+            Classifications = ImportFile();
+           
 
         }
 
@@ -29,10 +30,10 @@ namespace SafeguardClassifications.Models
         {
 
             //Read all lines
-            var items = System.IO.File.ReadAllLines(@"C:\Solutions\SafeguardClassifications\src\SafeguardClassifications\MainTable.csv").ToList<string>();
+            var items = System.IO.File.ReadAllLines("MainTable.csv").ToList<string>();
 
 
-            string filepath = @"C:\Solutions\SafeguardClassifications\src\SafeguardClassifications\MainTable.csv";
+            string filepath = "MainTable.csv";
 
             FileStream file = new FileStream(filepath, FileMode.Open,FileAccess.Read);
 
@@ -41,6 +42,13 @@ namespace SafeguardClassifications.Models
             var csv = new CsvReader(reader);
             
             var records = csv.GetRecords<Classification>().ToList();
+
+            foreach (var x in records)
+            {
+                x.incidentType= x.incidentType.Replace("/", " | ");
+                x.causeGroup = x.causeGroup.Replace("/", " | ");
+                x.cause1 = x.cause1.Replace("/", " | ");
+            }
 
             return records;
 

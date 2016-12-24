@@ -8,24 +8,25 @@ using SafeguardClassifications.Models;
 
 namespace SafeguardClassifications.ViewModels
 {
-    public class CauseGroups : IEnumerable<string>
+    public class CauseGroupsVM : IEnumerable<string>
     {
 
         // A list of unique incident types obtained from maintainance table
 
         public List<string> Types { get; set; }
-        
+        public List<Comment> Comments { get; set; }
 
-        public CauseGroups(MaintainanceTable d)
+        public CauseGroupsVM(MaintainanceTable d, Comments c)
         {
 
             Types = new List<string>(0);
-            
+            Comments = c.CommentsList;
 
 
             // Add first cause group from maintainance table
 
             Types.Add(d.First().causeGroup);
+         
 
             // check if cause group exist , Add if yes else don't add. 
 
@@ -39,6 +40,9 @@ namespace SafeguardClassifications.ViewModels
 
                 Types.Add(t);
             }
+
+           
+
 
         }
 

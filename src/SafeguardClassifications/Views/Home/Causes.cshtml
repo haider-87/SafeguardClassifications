@@ -1,25 +1,31 @@
 ﻿
 @{
-    ViewData["Title"] = "Types of incidents";
+    ViewData["Title"] = this.ViewContext.RouteData.Values["id"];
 
 
 }
 
 
 
-@model SafeguardClassifications.Models.MaintainanceTable
+@model SafeguardClassifications.ViewModels.Cause1s
 
 
-<h1>@ViewData["Title"]</h1>
+<h1 class="page-header">@ViewData["Title"]</h1>
+<div class="container-fluid">
+    <div class=" col-md-8">
+        <div class=" alert alert-info"> <span class="glyphicon glyphicon-info-sign"></span> Below is a breakdown of @ViewData["Title"]. There is no further breakdown. </div>
 
+        <div class="list-group well">
+            @{foreach (var x in @Model)
 
-@{foreach (var x in @Model)
+            {
+                    <button type="button" class="list-group-item disabled" disabled="disabled" style="background-color:white ">@x</button>
+                }
+            }
 
-    {
-        <div>
-            <h2>@x.incidentType</h2>
-            <h3>@x.causeGroup</h3>
-            <ul>@x.cause1</ul>
         </div>
-    }
-}
+    </div>
+    <div class="col-md-4">
+        <a class="btn btn-primary btn-block" href="javascript:history.back()">Click to go back to cause group level</a>
+    </div>
+</div>
